@@ -10,3 +10,4 @@ S-a creat pagina principala, care este o pagina introductiv[ cu informatii de ba
 Pe aceasta pagina am prezentat date de contact.
 ##### File din istorie
 Prezintă informații din istoria liceului
+![Capture1 3](https://user-images.githubusercontent.com/70127169/103027348-56c62280-455e-11eb-9e0b-f39882430a13.PNG)
